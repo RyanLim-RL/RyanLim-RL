@@ -1,8 +1,7 @@
 <h1 align="center">
-  Hello! I'm Ryan.
+  <strong>Hello! I'm Ryan.</stong> 🗿<br>I'm a junior developer.
+  <br><br>
 </h1>
-<h2 align="center">
-  Hello! I'm Ryan.
-</h2>
+
 <br><br>
 
