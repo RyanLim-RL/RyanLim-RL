@@ -3,12 +3,12 @@
   <br><br>
 </h1>
 Coding proficiency:
-1)Java
-2)Python
-3)JavaScript
-4)C++
-5)Pascal
-6)React
-7)PosgreSQL
-8)Express
+1)Java<br>
+2)Python<br>
+3)JavaScript<br>
+4)C++<br>
+5)Pascal<br>
+6)React<br>
+7)PosgreSQL<br>
+8)Express<br>
 
