@@ -2,7 +2,7 @@
   Hello 🎈 I'm Ryan. <br>I'm a junior developer.
   <br><br>
 </h1>
-Coding proficiency:
+Coding proficiency:<br>
 1)Java<br>
 2)Python<br>
 3)JavaScript<br>
