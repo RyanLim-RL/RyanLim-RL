@@ -3,7 +3,7 @@
 ## Introduction
 Greetings! 👋 I am currently immersed in the realm of Computer Science, specialised in Artificial Intelligence at King's College London.
 
-🔗 [personal website](https://ryan-lim.vercel.app)
+🔗 [personal website](https://ryan-lim.vercel.app) </br>
 📚 [Leetcode](https://leetcode.com/u/Ryan_Lim/)
 
 ## Academic Background
