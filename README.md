@@ -7,5 +7,7 @@ Greetings! 👋 I am currently immersed in the realm of Computer Science, specia
 - **University:** King's College London
 - **Degree:** Computer Science with AI Specialization
 
-[personal website](https://ryan-lim.vercel.app)
+##
+🔗 [personal website](https://ryan-lim.vercel.app)
+
 
