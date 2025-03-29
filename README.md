@@ -4,6 +4,7 @@
 Greetings! 👋 I am currently immersed in the realm of Computer Science, specialised in Artificial Intelligence at King's College London.
 
 🔗 [personal website](https://ryan-lim.vercel.app)
+📚 [Leetcode](https://leetcode.com/u/Ryan_Lim/)
 
 ## Academic Background
 - **University:** King's College London
